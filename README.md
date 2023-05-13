@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Olá! Me chamo Rafael Expedito. Sou um programador Front End, e atualmente estou aprendendo e criando projetos com HTML e CSS. Começando agora o aprendizado de JavaScript e React.
+Olá!  Eu me chamo Rafael Expedito. Sou um programador Front End e estou criando inicialmente alguns projetos com HTML e CSS. Recentemente iniciei  o aprendizado em JavaScrip e React também.
