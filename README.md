@@ -1,6 +1,6 @@
 ### Hi there 📝:
 
-Muito prazer, me chamo Rafael Expedito, sou um Desenvolvedor Front-End e estudando do <a href="https://rodolfomori.com.br/devclub">DevClub.</a> .
+Muito prazer, me chamo Rafael Expedito, sou um Desenvolvedor Front-End e estudante do <a href="https://rodolfomori.com.br/devclub">DevClub.</a> .
 Tenho experiência com as tecnologias:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
